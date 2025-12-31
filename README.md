@@ -1,10 +1,12 @@
 How To Use
 
 
-Download Folder
+1. Download Folder
 
-Unzip file
+2. Unzip file
 
-run script ingame and get input key
+3.run script ingame 
 
-dupe
+4. input key
+
+5. dupe
